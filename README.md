@@ -86,5 +86,7 @@ I hold a **BSc in Applied Mathematics and Physics** and am currently pursuing a 
 My interdisciplinary background allows me to combine quantitative thinking, computational analysis, and experimental biology in my research.
 
 ## 📫 Contact
+## 📫 Contact
 
-[Linkdin][(https://www.linkedin.com/in/liudmila-protsenko-38b273251/?skipRedirect=true)] • [Website][(https://www.oeaw.ac.at/imba/research/julius-brennecke/team/person/liudmila-protsenko] • [Email][liudmila.protsenko@imba.oeaw.ac.at]
+[LinkedIn](https://www.linkedin.com/in/liudmila-protsenko-38b273251/?skipRedirect=true) • [Website](https://www.oeaw.ac.at/imba/research/julius-brennecke/team/person/liudmila-protsenko) • [Email](mailto:liudmila.protsenko@imba.oeaw.ac.at)
+
