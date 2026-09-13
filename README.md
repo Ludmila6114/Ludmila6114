@@ -1,6 +1,6 @@
 # Hi, I'm Liudmila 👋
 
-I’m a **molecular biologist** with a background in **Applied Mathematics and Physics**, currently pursuing a **PhD in Molecular Biosciences**.
+I’m a **molecular biologist** with a background in **Applied Mathematics and Physics**, currently pursuing a **PhD in Molecular Biosciences**, 9 years in research, 27years old.
 
 
 I’m a PhD researcher at the **Vienna BioCenter**, working in the **Julius Brennecke Lab** on the replication and infectivity of **LTR retrotransposons in *Drosophila melanogaster***.
