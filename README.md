@@ -87,4 +87,4 @@ My interdisciplinary background allows me to combine quantitative thinking, comp
 
 ## 📫 Contact
 
-[LinkedIn]([YOUR-LINK](https://www.linkedin.com/in/liudmila-protsenko-38b273251/?skipRedirect=true)) • [Website]([YOUR-LINK](https://www.oeaw.ac.at/imba/research/julius-brennecke/team/person/liudmila-protsenko)) • [Email](liudmila.protsenko@imba.oeaw.ac.at)
+[Linkdin][(https://www.linkedin.com/in/liudmila-protsenko-38b273251/?skipRedirect=true)] • [Website][(https://www.oeaw.ac.at/imba/research/julius-brennecke/team/person/liudmila-protsenko] • [Email][liudmila.protsenko@imba.oeaw.ac.at]
